@@ -1,0 +1,6 @@
+Tu sucursal principal no está protegida
+Proteja esta rama para que no se fuerce su envío o eliminación, o solicite comprobaciones de estado antes de fusionarla
+
+Ayude a las personas interesadas en este repositorio a comprender su proyecto agregando un archivo README.
+
+Problemas de etiquetas y solicitudes de extracción para nuevos contribuyentes
